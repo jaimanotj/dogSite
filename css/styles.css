@@ -1,5 +1,5 @@
 #title {
-  background-color: #ff4c68;
+  background-color: #9ccbcd;
   color:#fff;
 }
 
@@ -82,7 +82,7 @@ margin: 1rem;
 /* testimonials-section */
 #testimonials {
   text-align: center;
-  background-color: #ef8172;
+  background-color: #57898a;
   color: #fff;
 }
 .testimonial-image {
@@ -91,7 +91,7 @@ margin: 1rem;
   margin: 20px;
 }
 #press {
-    background-color: #ef8172;
+    background-color: #57898a;
     text-align: center;
     padding-bottom: 3%;
 }
@@ -134,7 +134,7 @@ margin: 1rem;
 
 #cta {
 
-  background-color:  #ff4c68;
+  background-color:  #57898a;
   text-align: center;
   color: #fff;
   padding: 20% 30%;
@@ -147,6 +147,7 @@ margin: 1rem;
 
 
 #footer {
+  background-color: #d0c0de;
   text-align: center;
   padding: 3% 8%;
 
